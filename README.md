@@ -36,13 +36,13 @@ To run **QCY_Grill_Reasto_Bar** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/r3dc0dez/QCY_Grill_Reasto_Bar.git
+sudo git clone https://github.com/celerinamagarro/qcy_grill_bar.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/r3dc0dez/QCY_Grill_Reasto_Bar.git
+git clone https://github.com/celerinamagarro/qcy_grill_bar.git
 ```
 
 ### Contact
